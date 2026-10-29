@@ -9,5 +9,5 @@
     <link href="assets/css/ads.css" rel="stylesheet">
     <script src="assets/js/config.js"></script>
     <script src="assets/js/color-modes.js"></script>
-    <link rel="canonical" href="https://coreui.io/docs/content/tables/">
+    <link rel="canonical" href="assets/coreui/tables.html">
     <link href="assets/vendors/@coreui/chartjs/css/coreui-chartjs.css" rel="stylesheet">
