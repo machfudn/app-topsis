@@ -1,1 +1,55 @@
+# Environment & Credentials
+.env
+.env.*
+!.env.example
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python Caches & Tests
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+tests/
+test/
+
+# Documentation & Internal Progress
+docs/
+progress/
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.bak
 *.sock
+tmp/
+temp/
+
+# Bloatware, Unused Legacy & Large Binaries
+*.rar
+*.zip
+*.tar.gz
+src/bootstrap/
+src/perhitungan/
+src/php/
+src/PHPExcel/
+app/
+
+# Docker Local Overrides
+docker-compose.override.yml
+.docker/
