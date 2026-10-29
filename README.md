@@ -170,9 +170,3 @@ app-topsis/
 ```
 
 ---
-
-## Dokumentasi Teknis
-
-Rincian keputusan arsitektur dan spesifikasi teknis dapat dilihat pada dokumen pendukung:
-- [Architecture Decision Records (docs/adr.md)](docs/adr.md)
-- [Dokumen Perancangan Teknis (docs/rancangan-modernisasi-topsis.md)](docs/rancangan-modernisasi-topsis.md)
