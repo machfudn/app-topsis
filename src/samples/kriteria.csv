@@ -1,0 +1,5 @@
+id,nama,bobot,jenis
+C1,RAM,25,benefit
+C2,Storage,25,benefit
+C3,Kamera,25,benefit
+C4,Harga,25,cost
